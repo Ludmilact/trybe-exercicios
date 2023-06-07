@@ -33,7 +33,7 @@ atividades desenvolvidas por __[mim](https://www.linkedin.com/in/ludmilactimoteo
 
 - [X] Dia 04: Objetos
 
-- [ ] Dia 04: Json e dia de prática
+- [X] Dia 04: Json e dia de prática
 
 - [ ] Dia 06: Projeto - Supermercado Pirilampo
 
