@@ -35,7 +35,7 @@ atividades desenvolvidas por __[mim](https://www.linkedin.com/in/ludmilactimoteo
 
 - [X] Dia 04: Json e dia de prática
 
-- [ ] Dia 06: Projeto - Supermercado Pirilampo
+- [X] Dia 06: Projeto - Supermercado Pirilampo
 
 #### Bloco 4: [JavaScript: DOM, Eventos e Web Storage]()
 
