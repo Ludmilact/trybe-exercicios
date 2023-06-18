@@ -43,7 +43,7 @@ atividades desenvolvidas por __[mim](https://www.linkedin.com/in/ludmilactimoteo
 
 - [X] Dia 02: JavaScript - Trabalhando com elementos
 
-- [ ] Dia 03: JavaScript - Eventos
+- [x] Dia 03: JavaScript - Eventos
 
 - [ ] Dia 04: JavaScript - Web Storage
 
