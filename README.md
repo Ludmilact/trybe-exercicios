@@ -39,11 +39,11 @@ atividades desenvolvidas por __[mim](https://www.linkedin.com/in/ludmilactimoteo
 
 #### Bloco 4: [JavaScript: DOM, Eventos e Web Storage]()
 
-- [ ] Dia 01: JavaScript - DOM e seletores
+- [X] Dia 01: JavaScript - DOM e seletores
 
-- [ ] Dia 02: JavaScript - Trabalhando com elementos
+- [X] Dia 02: JavaScript - Trabalhando com elementos
 
-- [ ] Dia 03: JavaScript - Eventos
+- [x] Dia 03: JavaScript - Eventos
 
 - [ ] Dia 04: JavaScript - Web Storage
 
