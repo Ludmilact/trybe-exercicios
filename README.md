@@ -45,9 +45,9 @@ atividades desenvolvidas por __[mim](https://www.linkedin.com/in/ludmilactimoteo
 
 - [x] Dia 03: JavaScript - Eventos
 
-- [ ] Dia 04: JavaScript - Web Storage
+- [X] Dia 04: JavaScript - Web Storage
 
-- [ ] Dia 04: Projeto Bônus
+- [X] Dia 04: Projeto Bônus
 -------
 
 ### Segundo período - Fundamentos
