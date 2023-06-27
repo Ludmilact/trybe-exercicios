@@ -51,9 +51,24 @@ atividades desenvolvidas por __[mim](https://www.linkedin.com/in/ludmilactimoteo
 -------
 
 ### Segundo período - Fundamentos
+#### Bloco 5: HTML e CSS: Forms, Flexbox e Responsivo 
+- [X] Dia 01: HTML & CSS - Forms
+- [X] Dia 02: Bibliotecas JavaScript e Frameworks CSS
+- [X] Dia 03: CSS flexbox - Parte 1
+- [X] Dia 04: CSS flexbox - Parte 2 
+- [X] Dia 05: Responsividade
+- [X] Dia 06: Projeto - Trybewarts
 
-#### Bloco 5: [HTML e CSS: Forms, Flexbox e Responsivo]()
+#### Bloco 6: Introdução à JavaScript ES6 e Testes Unitários
+- [ ] Dia 01: Fluxo de exceções
+- [ ] Dia 02: Primeiros passos em Jest
+- [ ] Dia 03: Matchers e cobertura de código
+- [ ] Dia 04: Projeto - JavaScript Testes Unitários
 
-#### Bloco 6: [Introdução à JavaScript ES6 e Testes Unitários]()
-
-#### Bloco 7: [Higher Order Functions do JavaScript ES6]()
+#### Bloco 7 - Higher order Functions do JavaScript ES6
+- [ ] Dia 01: Introdução a Higher Order Functions
+- [ ] Dia 02: Higher Order Functions - sort e map
+- [ ] Dia 03: Higher Order Functions - filter e reduce
+- [ ] Dia 04: JavaScript ES6 - spread operator, rest parameters e object destructuring
+- [ ] Dia 05: JavaScript ES6 - Array destructuring, Default destructuring Object property shorthand e dafault parameters
+- [ ] Dia 06: Projeto - Zoo functions
