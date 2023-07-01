@@ -1,7 +1,5 @@
 # Trybe - Exercícios
 
-atividades desenvolvidas por __[mim](https://www.linkedin.com/in/ludmilactimoteo/)__ durante meus estudos na [Trybe](https://www.betrybe.com/).
-
 ## Fundamentos
 
 ### Primeiro período - Fundamentos
