@@ -1,6 +1,5 @@
 const validation = new justValidate('#form'); 
 
-
 validation
 .addField(document.querySelector('#fullName'),[
     {
