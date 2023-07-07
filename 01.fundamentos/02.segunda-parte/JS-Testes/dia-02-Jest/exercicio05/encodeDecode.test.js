@@ -1,5 +1,4 @@
 
-const exp = require("constants");
 const { encode, decode } = require("./encodeDecode");
 
 describe('testa a função encodeDecode', () => {
