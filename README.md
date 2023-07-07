@@ -64,9 +64,9 @@
 - [X] Dia 06: Projeto - Trybewarts
 
 #### Bloco 6: Introdução à JavaScript ES6 e Testes Unitários
-- [ ] Dia 01: Fluxo de exceções
+- [X] Dia 01: Fluxo de exceções
     
-- [ ] Dia 02: Primeiros passos em Jest
+- [X] Dia 02: Primeiros passos em Jest
       
 - [ ] Dia 03: Matchers e cobertura de código
       
