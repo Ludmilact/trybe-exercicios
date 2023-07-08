@@ -68,9 +68,9 @@
     
 - [X] Dia 02: Primeiros passos em Jest
       
-- [ ] Dia 03: Matchers e cobertura de código
+- [X] Dia 03: Matchers e cobertura de código
       
-- [ ] Dia 04: Projeto - JavaScript Testes Unitários
+- [x] Dia 04: Projeto - JavaScript Testes Unitários
 
 #### Bloco 7 - Higher order Functions do JavaScript ES6
 - [ ] Dia 01: Introdução a Higher Order Functions
