@@ -73,7 +73,7 @@
 - [x] Dia 04: Projeto - JavaScript Testes Unitários
 
 #### Bloco 7 - Higher order Functions do JavaScript ES6
-- [ ] Dia 01: Introdução a Higher Order Functions
+- [X] Dia 01: Introdução a Higher Order Functions
       
 - [ ] Dia 02: Higher Order Functions - sort e map
       
