@@ -75,7 +75,7 @@
 #### Bloco 7 - Higher order Functions do JavaScript ES6
 - [X] Dia 01: Introdução a Higher Order Functions
       
-- [ ] Dia 02: Higher Order Functions - sort e map
+- [X] Dia 02: Higher Order Functions - sort e map
       
 - [ ] Dia 03: Higher Order Functions - filter e reduce
       
