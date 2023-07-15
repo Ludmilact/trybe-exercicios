@@ -83,5 +83,5 @@
       
 - [X] Dia 05: JavaScript ES6 - Array destructuring, Default destructuring Object property shorthand e dafault parameters
       
-- [ ] Dia 06: Projeto - Zoo functions
+- [X] Dia 06: Projeto - Zoo functions
 ---------
