@@ -78,6 +78,7 @@
 - [X] Dia 02: Higher Order Functions - sort e map
       
 - [X] Dia 03: Higher Order Functions - filter e reduce
+      ----------------
       
 - [X] Dia 04: JavaScript ES6 - spread operator, rest parameters e object destructuring
       
