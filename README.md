@@ -4,7 +4,6 @@
 
 ### Primeiro período - Fundamentos
 #### Bloco 1: [Unix, Shell e Git](https://github.com/Ludmilact/trybe-exercicios/tree/main/fundamentos/secao-1-unix-shell-git)
-
 - [x] Dia 01: Unix e Shell
 
 - [x] Dia 02: Git - O que é e para que serve
@@ -36,7 +35,6 @@
 - [X] Dia 06: Projeto - Supermercado Pirilampo
 
 #### Bloco 4: [JavaScript: DOM, Eventos e Web Storage]()
-
 - [X] Dia 01: JavaScript - DOM e seletores
 
 - [X] Dia 02: JavaScript - Trabalhando com elementos
@@ -50,7 +48,6 @@
 
 ### Segundo período - Fundamentos
 #### Bloco 5: HTML e CSS: Forms, Flexbox e Responsivo 
-
 - [X] Dia 01: HTML & CSS - Forms
       
 - [X] Dia 02: Bibliotecas JavaScript e Frameworks CSS
@@ -72,7 +69,7 @@
       
 - [x] Dia 04: Projeto - JavaScript Testes Unitários
 
-#### Bloco 7 - Higher order Functions do JavaScript ES6
+#### Bloco 7: Higher order Functions do JavaScript ES6
 - [X] Dia 01: Introdução a Higher Order Functions
       
 - [X] Dia 02: Higher Order Functions - sort e map
@@ -86,3 +83,40 @@
 - [X] Dia 06: Projeto - Zoo functions
 -------------
 ## Front-end 
+### Primeiro período - Front-End
+#### Bloco 1 - Introdução ao Front-End e JavaScript assíncrono.
+- [X] Dia 01: Ambiente de desenvolvimento 
+
+- [X] Dia 02: JavaScript assíncrono - Promises e fetch
+
+- [X] Dia 03: Revisão - Casa de Câmbio 
+
+- [X] Dia 04: Async, await e testes assíncronos
+
+- [X] Dia 05: Projeto - iChoveu
+
+#### Bloco 2 - Introdução ao React.
+- [X] Dia 01: Introdução ao React e ao Typescript
+
+- [X] Dia 02: Componentes React e Props
+
+- [X] Dia 03: Avançando em componentes
+
+- [X] Dia 04: Revisão - Solar System
+
+- [X] Dia 05: Estados e eventos
+
+- [X] Dia 06: Formulário
+
+- [X] Dia 07: Revisão -  Store Back Office
+
+- [X] Dia 08: Projeto - Password Manager 
+
+ #### Bloco 3 - Aprofundando no React.
+- [X] Dia 01: React Router
+
+- [X] Dia 02: useEffect
+
+- [X] Dia 03: Revisão - Clonando o Twitter
+
+- [X] Dia 04: Projeto - TrybeTunes
