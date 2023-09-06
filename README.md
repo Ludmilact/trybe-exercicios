@@ -120,3 +120,7 @@
 - [X] Dia 03: Revisão - Clonando o Twitter
 
 - [X] Dia 04: Projeto - TrybeTunes
+
+### Segundo Período 
+#### Bloco 1 - Testes automatizados com React Testing Library
+- [X] Dia 01: Introdução a React Testing Library
