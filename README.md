@@ -124,3 +124,6 @@
 ### Segundo Período 
 #### Bloco 1 - Testes automatizados com React Testing Library
 - [X] Dia 01: Introdução a React Testing Library
+- [X] Dia 02: RLT: Mocks
+- [X] Dia 03: RLT: Testando com React Router
+- [X] Projeto - Testes em React
