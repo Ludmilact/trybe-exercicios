@@ -52,7 +52,3 @@ function main() {
     const bmi = handleBMI(weight, height);
     console.log(`BMI: ${bmi.toFixed(2)}`);
 }
-
-
-
-main();
